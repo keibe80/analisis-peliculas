@@ -23,6 +23,5 @@ Analizar datos del cine para entender qué factores podrían influir en la renta
 ## 📁 Archivos incluidos
 - `peliculas_analisis.ipynb`: notebook con todo el análisis
 - `movies_dataset.csv`: dataset utilizado
-- `/img`: visualizaciones generadas
-
+- Descarga el archivo .ipynb y el archivo .csv para poder probarlo.
 ---
